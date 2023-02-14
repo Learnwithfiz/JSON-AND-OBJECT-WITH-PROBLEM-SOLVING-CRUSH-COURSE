@@ -1,0 +1,21 @@
+{
+    "Student_details":[
+        {
+            "Name":"Mr Rakibul",
+            "Email":"rakib@gmauil.com",
+            "Age":25,
+            "CGPA":3.55,
+            "Town":"Sirajganj",
+            "Language":["Html","CSS","JS","PHP","Laravel"],
+            "Teams":[
+                {
+                    "Name":"Fiz",
+                    "id":1
+                },{
+                    "Name":"khan",
+                    "Id":2
+                }
+            ]
+        }
+    ]
+}

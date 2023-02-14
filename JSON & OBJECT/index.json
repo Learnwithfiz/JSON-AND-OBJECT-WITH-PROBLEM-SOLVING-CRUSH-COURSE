@@ -1,0 +1,13 @@
+{
+    "person":[
+        {
+            "Name":"Fiz",
+            "AGE":23 
+        },
+        {
+            "Name":"Rakibul",
+            "AGE":25
+        }
+    ]
+    
+}
